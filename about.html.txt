@@ -1,0 +1,9 @@
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE>About Page</TITLE>
+</HEAD>
+<BODY BGCOLOR="cyan">
+<H1>Welcome to About Page</H1>
+<A HREF="index.html">Go to Index Page</A>
+</BODY>
+</HTML>
