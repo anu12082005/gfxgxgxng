@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE>Index Page</TITLE>
+</HEAD>
+<BODY BGCOLOR="pink">
+<H1>Welcome to Index Page</H1>
+<A HREF="next.html">Go to Next Page</A>
+<br>
+<A HREF="about.html">Go to About Page</A>
+</BODY>
+</HTML>
